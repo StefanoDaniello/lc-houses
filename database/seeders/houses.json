@@ -1,0 +1,82 @@
+[
+    {
+        "address": "Via Roma, 1",
+        "city": "Roma",
+        "state": "Italy",
+        "description": "House in the city center",
+        "price": 1500.00,
+        "square_meters": 50
+    },
+    {
+        "address": "Via Milano, 10",
+        "city": "Milano",
+        "state": "Italy",
+        "description": "Cozy apartment near the park",
+        "price": 2000.00,
+        "square_meters": 70
+    },
+    {
+        "address": "Via Firenze, 25",
+        "city": "Firenze",
+        "state": "Italy",
+        "description": "Historic house with a view",
+        "price": 2500.00,
+        "square_meters": 80
+    },
+    {
+        "address": "Via Napoli, 5",
+        "city": "Napoli",
+        "state": "Italy",
+        "description": "Modern apartment near the sea",
+        "price": 1800.00,
+        "square_meters": 60
+    },
+    {
+        "address": "Via Torino, 8",
+        "city": "Torino",
+        "state": "Italy",
+        "description": "Spacious house in the suburbs",
+        "price": 2200.00,
+        "square_meters": 90
+    },
+    {
+        "address": "Via Venezia, 12",
+        "city": "Venezia",
+        "state": "Italy",
+        "description": "Charming house on the canal",
+        "price": 3000.00,
+        "square_meters": 100
+    },
+    {
+        "address": "Via Palermo, 15",
+        "city": "Palermo",
+        "state": "Italy",
+        "description": "House with a beautiful garden",
+        "price": 1600.00,
+        "square_meters": 55
+    },
+    {
+        "address": "Via Bologna, 18",
+        "city": "Bologna",
+        "state": "Italy",
+        "description": "Modern apartment in the city center",
+        "price": 2400.00,
+        "square_meters": 75
+    },
+    {
+        "address": "Via Genova, 20",
+        "city": "Genova",
+        "state": "Italy",
+        "description": "Apartment with sea view",
+        "price": 2100.00,
+        "square_meters": 65
+    },
+    {
+        "address": "Via Bari, 22",
+        "city": "Bari",
+        "state": "Italy",
+        "description": "House near the historic center",
+        "price": 1700.00,
+        "square_meters": 60
+    }
+]
